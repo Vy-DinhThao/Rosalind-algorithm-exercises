@@ -2,7 +2,7 @@
 # Return: The protein string encoded by s
 ######################################################################################
 
-#Create a dictionary with keys = codons and values = initials
+#Create a dictionary with keys = codons and values = alphabets
 rna_codon = {
     'UUU': 'F',     'CUU': 'L',     'AUU': 'I',     'GUU': 'V',
     'UUC': 'F',     'CUC': 'L',     'AUC': 'I',     'GUC': 'V',
